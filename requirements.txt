@@ -1,0 +1,5 @@
+aliyun-python-sdk-core==2.13.26
+aliyun-python-sdk-dcdn==2.0.3
+aliyun-python-sdk-ecs==4.19.12
+jmespath==0.10.0
+wget==3.2
